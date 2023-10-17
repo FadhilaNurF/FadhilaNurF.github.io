@@ -125,7 +125,7 @@ section{
 }
 
 .header .logo span {
-    font-size: 15px;
+    font-size: 25px;
     font-weight: 700;
     letter-spacing: 1px;
     color: #012970;
@@ -268,7 +268,7 @@ section{
 -------------------*/
 .mobile-nav-toggle {
     color: #012970;
-    font-size: 28px;
+    font-size: 15px;
     cursor: pointer;
     display: none;
     line-height: 0;
